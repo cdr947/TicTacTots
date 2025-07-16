@@ -36,8 +36,7 @@ Challenge an unbeatable AI powered by the minimax algorithm
 
 | Splash Screen | Game Mode Selection | Player vs AI |
 |---------------|-------------------|-------------|
-| ![Splash](screenshots/splash_screen.gif) | ![Game Mode](screenshots/game_selection_screen.jpg) | ![PvAI](screenshots/player_vs_ai.jpg
-) |
+| ![Splash](screenshots/splash_screen.gif) | ![Game Mode](screenshots/game_mode_selection.jpg) | ![PvAI](screenshots/player_vs_ai.jpg) |
 
 | Player vs Player |
 |-----------------|
